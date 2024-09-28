@@ -154,11 +154,6 @@ tracking and transactions.
 
 **Technologies:** C#, ASP Core, SQL Server, CSS3, Bootstrap, JQuery, JavaScript, ReactJs
 
-*
-
-
-**Achievements:** [If applicable, describe specific accomplishments related to the software's features or impact on client operations.]
-
 ### Gilani Kar Website Technical Support
 
 **Duration:** 8 Months (2018)
